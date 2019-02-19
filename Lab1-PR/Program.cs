@@ -12,6 +12,7 @@ namespace Lab1_PR
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Buna ziua Draga Mama!!");
+            Console.WriteLine();
             Console.ReadKey();
         }
     }
